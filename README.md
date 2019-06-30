@@ -12,7 +12,7 @@ step 2
    >$ python3 setup.py
    
 
-![img](http://uupload.ir/files/5rhf_screenshot_from_2019-07-01_00-27-52.png)
+![img](https://imgurl.ir/uploads/e69535_.png)
 
 
 press 'Q' for close
