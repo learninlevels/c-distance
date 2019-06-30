@@ -1,5 +1,6 @@
 # c-distance
 Calculates the distance in satellite images in pixels
+
 step 1 
    
    >$ git clone https://github.com/learninlevels/c-distance.git
@@ -11,6 +12,7 @@ step 2
    >$ python3 setup.py
    
 
-![im]("https://imgurl.ir/uploads/d09984_.png")
+![img]("https://imgurl.ir/uploads/d09984_.png")
+
 
 press 'Q' for close
